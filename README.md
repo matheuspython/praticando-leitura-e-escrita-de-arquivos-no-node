@@ -11,5 +11,6 @@ criar arquivos... achei muito massa
  - clonar este repositorio no seu dispositivo via terminal com o comando `git clone https://github.com/matheuspython/praticando-leitura-e-escrita-de-arquivos-no-node`
  - entre no diretorio do repositorio com o comando `cd praticando-leitura-e-escrita-de-arquivos-no-node`
  - execute o comando `npm i`
+ - execute o comando `npm start`
  - apos carregar digite a seguinte url no seu browser http://localhost:8878/
  - e pronto ;)
